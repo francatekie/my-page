@@ -77,7 +77,7 @@ export default function Header() {
       {/* navabar */}
       <nav className="bg-white/80 backdrop-blur-md items-center w-full flex p-4 justify-between z-50 ">
         <div className="flex space-x-1 ">
-          <img src="/bigbabs-logo.png  " alt="" className="h-8 w-8" />
+          
           <h1 className="font-bold text-2xl uppercase">BigCom</h1>
         </div>
 
